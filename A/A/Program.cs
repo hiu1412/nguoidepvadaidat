@@ -11,6 +11,7 @@ namespace A.cs
         static void Main(string[] args)
         {
             Console.WriteLine("Ao moi em coi mau hoa moi");
+            Console.WriteLine("Chung ta khong can nhau them nua");
         }
       }
 }
